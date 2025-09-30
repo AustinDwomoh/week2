@@ -1,10 +1,10 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Pokedex*
 
-Submitted by: **Your Name Here**
+Submitted by: **Austin Dwomoh**
 
-This web app: **insert description**
+This web app: **short pokedex that demonstrates reacts usetate and event handling**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='assets/week2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src/assets/week2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
