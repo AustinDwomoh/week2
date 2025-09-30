@@ -1,0 +1,25 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.card-set {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.card-set h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.card-set-description {
+  max-width: 500px;
+  margin: 0 auto 30px;
+  color: #555;
+  font-size: 1rem;
+}
